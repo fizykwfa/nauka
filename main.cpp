@@ -1,7 +1,9 @@
 #include <fstream>
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-   std::cout << "witaj świecie\n";
+   cout << "witaj świecie\n";
 }
