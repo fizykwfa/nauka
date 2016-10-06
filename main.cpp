@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-   cout << "witaj ZUY świecie!\n";
+   cout << "witaj świecie!\n Magija jakowaś :O";
 }
