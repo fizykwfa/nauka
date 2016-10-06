@@ -3,5 +3,5 @@
 
 int main()
 {
-   std::cout << "witaj świecie\n";
+   std::cout << "witaj świecie!\n";
 }
