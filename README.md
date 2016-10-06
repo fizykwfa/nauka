@@ -1,0 +1,2 @@
+# nauka
+projekt do zniszczenia
